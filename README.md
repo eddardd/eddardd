@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Eduardo Montesuma
 
 #### About Me 🤔
-I'm currently an undergraduate student @ Universidade Federal do Ceará. I am currently doing my bachelor thesis on Domain Adaptation for Fault Diagnosis. Since 2016 I have been working on various research projects on <b>Machine Learning</b>, <b>Control Theory</b> and <b>Image Procressing</b>. More recently, I am working on topics such as <b>Image Denoising</b>, <b>Transfer Learning/Domain Adaptation</b> and <b>Statistical Learning Theory</b>.
+I am currently a PhD student @ Université Paris-Saclay/CEA-List. The subject of my thesis is on the contributions of Optimal Transport Theory for Transfer Learning, and to Machine Learning in general. My research interests are related to applied mathematics, statistics and machine learning. In the past years, I focused on __Transfer Learning__, __Control Theory__, __Image Processing__, __Optimal Transport__ and __Statistical Learning Theory__.
 
 #### How to find me
 
