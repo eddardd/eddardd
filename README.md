@@ -6,6 +6,6 @@ I am currently a PhD student @ Université Paris-Saclay/CEA-List. The subject of
 #### How to find me
 
 <ul style="text-align: center; list-style-position: inside;">
-  <li style="display:inline"><a href="https://scholar.google.com.br/citations?view_op=list_works&user=elSROdcAAAAJ" target="_blank"> <img src="https://raw.githubusercontent.com/eddardd/my-personal-blog/blob/master/assets/icons/gscholar.png" alt="" width="30px" height="30px"> </a></li>
-  <li style="display:inline"><a href="https://www.researchgate.net/profile/Eduardo-Fernandes-Montesuma" target="_blank"> <img src="https://raw.githubusercontent.com/eddardd/my-personal-blog/blob/master/assets/icons/rgate.png" alt="" width="30px" height="30px"> </a></li>
+  <li style="display:inline"><a href="https://scholar.google.com.br/citations?view_op=list_works&user=elSROdcAAAAJ" target="_blank"> <img src="https://raw.githubusercontent.com/eddardd/my-personal-blog/master/assets/icons/gscholar.png" alt="" width="30px" height="30px"> </a></li>
+  <li style="display:inline"><a href="https://www.researchgate.net/profile/Eduardo-Fernandes-Montesuma" target="_blank"> <img src="https://raw.githubusercontent.com/eddardd/my-personal-blog/master/assets/icons/rgate.png" alt="" width="30px" height="30px"> </a></li>
 </ul>
