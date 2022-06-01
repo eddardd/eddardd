@@ -5,9 +5,7 @@ I am currently a PhD student @ Université Paris-Saclay/CEA-List. The subject of
 
 #### How to find me
 
-- [My Github pages](https://eddardd.github.io/)
-- [My Twitter profile](https://twitter.com/efernand9)
-
-Moreover, a list of my recent work is available on
-
-- [Google Scholar](https://scholar.google.com.br/citations?user=elSROdcAAAAJ&hl=en)
+<ul style="text-align: center; list-style-position: inside;">
+  <li style="display:inline"><a href="https://scholar.google.com.br/citations?view_op=list_works&user=elSROdcAAAAJ" target="_blank"> <i class="fa-solid fa-graduation-cap"></i> </a></li>
+  <li style="display:inline"><a href="https://www.researchgate.net/profile/Eduardo-Fernandes-Montesuma" target="_blank"> <i class="fa-brands fa-researchgate"></i> </a></li>
+</ul>
